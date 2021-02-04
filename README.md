@@ -1,7 +1,7 @@
 # Logic Calculator
 
 ## About
-The Logic Calculator application allows you to calculate and interpret the result of propositional logic formulas.
+The [Logic Calculator](https://play.google.com/store/apps/details?id=com.ccomp.logic.calculator) application allows you to calculate and interpret the result of propositional logic formulas.
 
 ## Content
 With this app, you can:
